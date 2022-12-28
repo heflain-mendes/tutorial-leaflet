@@ -1,0 +1,15 @@
+#map{
+    height: 75vh;
+    width: 70vw;
+}
+
+#principal{
+    height: 94%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+//import do leaflet para a aplicação
+import * as L from 'leaflet';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
